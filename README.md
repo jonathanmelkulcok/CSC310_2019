@@ -24,14 +24,14 @@ test cases in order: basic circle queue methods
                      merging 2 queues
                      basic queue methods
                     
-HM5:
+HMW5:
 Impliments a recursive tower of hanoi algorith and a recusive in/pre order binary tree traversal
 
 towerOfHanoi(# of discs, 'name of disk 1', 'name of disk 2', 'name of disk 3')
 
 binary tree traversal has an example on how to setup, uses .left and .right to setup child nodes without setting values to null.
 
-HM6:
+HMW6:
 Impliments a priority queue system, and a corresponding sorting algorithm.  A heap sorting algorithm, and a basic minheap.
 
 Heap sort and the queue operate off of given arrays.
